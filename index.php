@@ -1,7 +1,11 @@
-<?php
-// Setting Up the Project
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title><?php echo "Personal Media Library"; ?></title>
+  </head>
+  <body>
 
-$video1 = "Setting Up the Project";
-echo $video1;
-
- ?>
+    <p>&copy;<?php echo date("Y"); ?> Personal Media Library</p>
+  </body>
+</html>

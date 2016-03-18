@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title><?php echo "Personal Media Library"; ?></title>
-  </head>
-  <body>
+<?php include("inc/header.php"); ?>
 
-    <p>&copy;<?php echo date("Y"); ?> Personal Media Library</p>
-  </body>
+</div><!-- end content -->
+
+  <p>&copy;<?php echo date("Y"); ?> Personal Media Library</p>
+</body>
 </html>
